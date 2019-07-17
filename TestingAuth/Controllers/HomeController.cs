@@ -10,7 +10,7 @@ namespace TestingAuth.Controllers
     {
         public ActionResult Index()
         {
-            //comment here
+            //comment here. Comment
             return View();
         }
 
