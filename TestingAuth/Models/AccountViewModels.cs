@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace TestingAuth.Models
 {
+    //testing
     public class ExternalLoginConfirmationViewModel
     {
         [Required]
